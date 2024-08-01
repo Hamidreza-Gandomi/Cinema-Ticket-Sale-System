@@ -44,9 +44,5 @@ Welcome to the Cinema Ticket Sale System repository! This project is designed to
 
 Feel free to fork this repository, submit issues, and make pull requests. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Contact
 If you have any questions or feedback, feel free to reach out to me at [h.gandomi79@gmail.com](mailto:h.gandomi79@gmail.com).
